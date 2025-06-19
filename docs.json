@@ -17,8 +17,13 @@
             "group": "Hoe kunnen we je helpen?",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "Algemeen",
+              "Partnerprogramma",
+              "Administratie",
+              "Microsoft 365",
+              "Domeinregistratie",
+              "Hosting",
+              "Artikelen en how to's"
             ]
           }
         ]
